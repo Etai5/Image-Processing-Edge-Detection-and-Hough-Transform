@@ -1,6 +1,5 @@
 %% Image Processing Homework 4:
-% Etai Wigman - 315875385      Itzik Nsimov - 206697849
-disp("Etai Wigman 315875385     Itzik Nsimov 206697849")
+
 %% 1) Edge Detection
 clear variables
 close all
